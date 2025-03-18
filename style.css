@@ -1,0 +1,10 @@
+
+
+.hero {
+    background-image: url('FINAL.png'); /* Replace with the actual path to your image */
+    background-size: cover; /* Ensures the image covers the entire section */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    padding: 50px; /* Optional: Adds padding to the section */
+    color: #c61d1d; /* Optional: Ensures text is readable if the image is dark */
+}
